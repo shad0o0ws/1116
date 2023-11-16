@@ -20,9 +20,8 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "",
-    "",
-    "",
+    "https://www.52pojie.cn/forum.php?mod=viewthread&tid=1674643&highlight=%C4%AB%C4%AB%B1%B3%B5%A5%B4%CA",
+   
   ]
   /**
    * 生成随机数字
